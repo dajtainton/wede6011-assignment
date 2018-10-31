@@ -8,6 +8,7 @@ Final assignment submission for Web Development Intermediate.
 * [MySQL](https://www.mysql.com)
 * [HTML](https://www.w3.org/html/)
 * [CSS](https://www.w3.org/Style/CSS/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## License
 
